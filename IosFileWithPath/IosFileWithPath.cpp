@@ -25,4 +25,7 @@ int main() {
 		outfile << baris << endl;
 	}
 	outfile.close();
+
+	//membuka file dalam mode membaca
+	ifstream infile;
 }
