@@ -19,6 +19,8 @@ int main() {
 
 	//unlimited loop untuk menulis
 	while (true) {
-
+		cout << "-";
+		getline(cin, baris);
+		if (baris == "q") break;
 	}
 }
