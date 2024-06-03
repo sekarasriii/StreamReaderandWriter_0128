@@ -19,5 +19,5 @@ int main() {
 	}
 
 	cout << "Baris program yang terakhir" << endl;
-	/*penanda 2 : bahwa program berjalan tanpa berhenti*/
+
 }
