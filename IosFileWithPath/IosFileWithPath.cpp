@@ -7,4 +7,10 @@ int main() {
 	string baris;
 	string Namafile;
 
+	cout << "Masukkan Nama File : ";
+	cin >> Namafile;
+
+	//membuka file dalam mode menulis
+	ofstream outfile;
+
 }
